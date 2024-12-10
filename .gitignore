@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-config.py
-=======
 .env
->>>>>>> b83f2fb (Reorganized project structure)
+.flask_session/
+flask_session/
+venv/
+__pycache__/
